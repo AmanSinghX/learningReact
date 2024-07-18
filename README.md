@@ -1,2 +1,2 @@
 # learningReact
-Mini Projects while learning React
+## Mini Projects while learning React
